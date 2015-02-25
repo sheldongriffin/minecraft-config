@@ -17,6 +17,7 @@
   <tr><td>AppleMilkTea2</td><td>2.3a</td><td></td></tr>
   <tr><td>Applied Energistics</td><td>rv2-b8</td><td></td></tr>
   <tr><td>Armor Status HUD</td><td>1.28</td><td></td></tr>
+  <tr><td>Automagy</td><td>0.19.3</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
   <tr><td>BiblioCraft</td><td>1.9.2</td><td></td></tr>
   <tr><td>BiblioWoods Natura</td><td>1.5</td><td></td></tr>
