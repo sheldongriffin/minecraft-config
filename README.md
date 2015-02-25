@@ -35,6 +35,7 @@
   <tr><td>Compact Solars</td><td>4.4.39.315</td><td></td></tr>
   <tr><td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td></tr>
   <tr><td>Dense Ores</td><td>1.5</td><td></td></tr>
+  <tr><td>Equivalent Exchange 3</td><td>0.2.425</td><td></td></tr>
   <tr><td>Eureka</td><td>2.2</td><td>BuildCraft Additions</td></tr>
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
   <tr><td>Extra Utilities</td><td>1.2.1</td><td></td></tr>
