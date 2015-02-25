@@ -35,6 +35,7 @@
   <tr><td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td></tr>
   <tr><td>MapleTree Forge</td><td>1.1.29</td><td></td></tr>
   <tr><td>Mekanism</td><td>7.1.2.175</td><td></td></tr>
+  <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
   <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
   <tr><td>Thaumcraft</td><td>4.2.3.5</td><td></td></tr>
   <tr><td>Thaumcraft Node Tracker</td><td>1.0.2</td><td></td></tr>
