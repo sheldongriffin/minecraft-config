@@ -25,6 +25,7 @@
   <tr><td>HarvestCraft</td><td>1.7.10g</td><td></td></tr>
   <tr><td>Hunger Overhaul</td><td></td><td></td></tr>
   <tr><td>IndustrialCraft</td><td>2.2.680</td><td></td></tr>
+  <tr><td>Inventory Tweaks</td><td>1.59-dev-156</td><td></td></tr>
   <tr><td>KoreSample</td><td>1.2.5</td><td></td></tr>
   <tr><td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td></tr>
   <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
