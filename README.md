@@ -45,6 +45,7 @@
   <tr><td>Tinker's Mechworks</td><td>0.2.13.96</td><td></td></tr>
   <tr><td>Tinker's Steelworks</td><td>1.1.0-6</td><td></td></tr>
   <tr><td>Waila</td><td>1.5.9</td><td></td></tr>
+  <tr><td>Waila Harvestability</td><td>1.1.2</td><td></td></tr>
   <tr><td>Witchery</td><td>0.22.0</td><td></td></tr>
 </tbody>
 </table>
