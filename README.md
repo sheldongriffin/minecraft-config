@@ -40,6 +40,9 @@
     <td>Thaumcraft Node Tracker</td><td>1.0.2</td><td></td>
   </tr>
   <tr>
+    <td>Thaumic Tinkerer</td><td>2.5-162</td><td></td>
+  </tr>
+  <tr>
     <td>TiCTooltips</td><td>1.2.3</td><td></td>
   </tr>
   <tr>
