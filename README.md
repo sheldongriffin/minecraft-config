@@ -11,6 +11,7 @@
 <tbody>
   <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
   <tr><td>AppleCore</td><td>1.1.0</td><td>Hunger Overhaul</td></tr>
+  <tr><td>AppleMilkTea2</td><td>2.3a</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
   <tr><td>Biomes o Plenty</td><td>2.1.0.1067</td><td></td></tr>
   <tr><td>CodeChickenLib</td><td>1.1.1.110</td><td></td></tr>
