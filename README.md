@@ -20,11 +20,13 @@
   <tr><td>BiblioCraft</td><td>1.9.2</td><td></td></tr>
   <tr><td>BiblioWoods Natura</td><td>1.5</td><td></td></tr>
   <tr><td>BiblioWoods BiomesOPlenty</td><td>1.9</td><td></td></tr>
+  <tr><td>Big Reactors</td><td>0.4.1A2</td><td></td></tr>
   <tr><td>Biomes o Plenty</td><td>2.1.0.1067</td><td></td></tr>
   <tr><td>Botania</td><td>1.5-165</td><td></td></tr>
   <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
   <tr><td>CodeChickenLib</td><td>1.1.1.110</td><td></td></tr>
+  <tr><td>CoFHCore</td><td>3.0.0RC2-195</td><td></td></tr>
   <tr><td>Compact Solars</td><td>4.4.39.315</td><td></td></tr>
   <tr><td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td></tr>
   <tr><td>Dense Ores</td><td>1.5</td><td></td></tr>
