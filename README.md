@@ -19,6 +19,7 @@
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
   <tr><td>CodeChickenLib</td><td>1.1.1.110</td><td></td></tr>
   <tr><td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td></tr>
+  <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
   <tr><td>HarvestCraft</td><td>1.7.10g</td><td></td></tr>
   <tr><td>Hunger Overhaul</td><td></td><td></td></tr>
