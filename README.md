@@ -28,6 +28,7 @@
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
   <tr><td>Extra Utilities</td><td>1.2.1</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
+  <tr><td>GardenStuff</td><td>1.2.6</td><td></td></tr>
   <tr><td>HarvestCraft</td><td>1.7.10g</td><td></td></tr>
   <tr><td>Hunger Overhaul</td><td></td><td></td></tr>
   <tr><td>Immibis Core</td><td>59.0.7</td><td>Advanced Machines</td></tr>
