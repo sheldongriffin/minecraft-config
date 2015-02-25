@@ -9,6 +9,7 @@
   </tr>
 </thead>
 <tbody>
+  <tr><td>Advanced Solar Panels</td><td>3.5.1</td><td></td></tr>
   <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
   <tr><td>AppleCore</td><td>1.1.0</td><td>Hunger Overhaul</td></tr>
   <tr><td>AppleMilkTea2</td><td>2.3a</td><td></td></tr>
