@@ -15,10 +15,16 @@
     <td>Biomes o Plenty</td><td>2.1.0.1067</td>
   </tr>
   <tr>
+    <td>Mantle</td><td>0.3.2</td>
+  </tr>
+  <tr>
     <td>Twilight Forest</td><td>2.3.3</td>
   </tr>
   <tr>
     <td>Thaumcraft</td><td>4.2.3.5</td>
+  </tr>
+  <tr>
+    <td>Tinker's Construct</td><td>1.8.2a</td>
   </tr>
   <tr>
     <td>Witchery</td><td>0.22.0</td>
