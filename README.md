@@ -49,6 +49,9 @@
     <td>Tinker's Construct</td><td>1.8.2a</td><td></td>
   </tr>
   <tr>
+    <td>Tinker's Mechworks</td><td>0.2.13.96</td><td></td>
+  </tr>
+  <tr>
     <td>Tinker's Steelworks</td><td>1.1.0-6</td><td></td>
   </tr>
   <tr>
