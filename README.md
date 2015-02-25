@@ -23,6 +23,7 @@
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
   <tr><td>CodeChickenLib</td><td>1.1.1.110</td><td></td></tr>
   <tr><td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td></tr>
+  <tr><td>Dense Ores</td><td>1.5</td><td></td></tr>
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
   <tr><td>Extra Utilities</td><td>1.2.1</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
