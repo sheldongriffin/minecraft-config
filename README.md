@@ -37,6 +37,9 @@
     <td>Thaumcraft</td><td>4.2.3.5</td><td></td>
   </tr>
   <tr>
+    <td>Thaumcraft Node Tracker</td><td>1.0.2</td><td></td>
+  </tr>
+  <tr>
     <td>TiCTooltips</td><td>1.2.3</td><td></td>
   </tr>
   <tr>
