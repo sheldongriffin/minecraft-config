@@ -20,5 +20,8 @@
   <tr>
     <td>Thaumcraft</td><td>4.2.3.5</td>
   </tr>
+  <tr>
+    <td>Witchery</td><td>0.22.0</td>
+  </tr>
 </tbody>
 </table>
