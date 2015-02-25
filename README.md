@@ -9,6 +9,7 @@
   </tr>
 </thead>
 <tbody>
+  <tr><td>Advanced Machines</td><td>59.0.2</td><td></td></tr>
   <tr><td>Advanced Solar Panels</td><td>3.5.1</td><td></td></tr>
   <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
   <tr><td>AppleCore</td><td>1.1.0</td><td>Hunger Overhaul</td></tr>
@@ -25,6 +26,7 @@
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
   <tr><td>HarvestCraft</td><td>1.7.10g</td><td></td></tr>
   <tr><td>Hunger Overhaul</td><td></td><td></td></tr>
+  <tr><td>Immibis Core</td><td>59.0.7</td><td>Advanced Machines</td></tr>
   <tr><td>IndustrialCraft</td><td>2.2.680</td><td></td></tr>
   <tr><td>Inventory Tweaks</td><td>1.59-dev-156</td><td></td></tr>
   <tr><td>Iron Chests</td><td>6.0.62.742</td><td></td></tr>
