@@ -15,9 +15,11 @@
   <tr><td>AppleCore</td><td>1.1.0</td><td>Hunger Overhaul</td></tr>
   <tr><td>AppleMilkTea2</td><td>2.3a</td><td></td></tr>
   <tr><td>Applied Energistics</td><td>rv2-b8</td><td></td></tr>
+  <tr><td>Armor Status HUD</td><td>1.28</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
   <tr><td>Biomes o Plenty</td><td>2.1.0.1067</td><td></td></tr>
   <tr><td>Botania</td><td>1.5-165</td><td></td></tr>
+  <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
   <tr><td>CodeChickenLib</td><td>1.1.1.110</td><td></td></tr>
   <tr><td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td></tr>
