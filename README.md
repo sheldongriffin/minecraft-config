@@ -24,6 +24,9 @@
     <td>Thaumcraft</td><td>4.2.3.5</td>
   </tr>
   <tr>
+    <td>TiCTooltips</td><td>1.2.3</td>
+  </tr>
+  <tr>
     <td>Tinker's Construct</td><td>1.8.2a</td>
   </tr>
   <tr>
