@@ -5,17 +5,21 @@
   <tr>
     <th>Mod</th>
     <th>Version</th>
+    <th>Required By</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Baubles</td><td>1.0.1.10</td>
+    <td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td>
   </tr>
   <tr>
     <td>Biomes o Plenty</td><td>2.1.0.1067</td>
   </tr>
   <tr>
-    <td>Mantle</td><td>0.3.2</td>
+    <td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td>
+  </tr>
+  <tr>
+    <td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td>
   </tr>
   <tr>
     <td>Twilight Forest</td><td>2.3.3</td>
@@ -28,6 +32,9 @@
   </tr>
   <tr>
     <td>Tinker's Construct</td><td>1.8.2a</td>
+  </tr>
+  <tr>
+    <td>Tinker's Steelworks</td><td>1.1.0-6</td>
   </tr>
   <tr>
     <td>Witchery</td><td>0.22.0</td>
