@@ -23,6 +23,7 @@
   <tr><td>Big Reactors</td><td>0.4.1A2</td><td></td></tr>
   <tr><td>Biomes o Plenty</td><td>2.1.0.1067</td><td></td></tr>
   <tr><td>Blood Magic</td><td>1.3.0b-3</td><td></td></tr>
+  <tr><td>BuildCraft</td><td>6.3.6</td><td></td></tr>
   <tr><td>Botania</td><td>1.5-165</td><td></td></tr>
   <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
