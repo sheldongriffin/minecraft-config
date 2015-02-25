@@ -10,6 +10,9 @@
 </thead>
 <tbody>
   <tr>
+    <td>Ancient Trees</td><td>1.2.4</td><td></td><td></td>
+  </tr>
+  <tr>
     <td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td>
   </tr>
   <tr>
@@ -20,6 +23,9 @@
   </tr>
   <tr>
     <td>HarvestCraft</td><td>1.7.10g</td><td></td>
+  </tr>
+  <tr>
+    <td>KoreSample</td><td>1.2.5</td><td></td>
   </tr>
   <tr>
     <td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td>
