@@ -15,6 +15,9 @@
     },
     "Natura Forestry Compatibility": {
       "enabled": true
+    },
+    "Natura MFR Compatibility": {
+      "enabled": true
     }
   }
 }

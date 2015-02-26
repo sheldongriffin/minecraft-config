@@ -58,6 +58,7 @@
   <tr><td>MapleTree Forge</td><td>1.1.29</td><td></td></tr>
   <tr><td>Mariculture</td><td>1.2.4c</td><td></td></tr>
   <tr><td>Mekanism</td><td>7.1.2.175</td><td></td></tr>
+  <tr><td>MineFactory Reloaded</td><td>2.8.0RC7-71</td><td></td></tr>
   <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
   <tr><td>OceanCraft</td><td>1.4.1</td><td></td></tr>
   <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
