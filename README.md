@@ -72,7 +72,8 @@
   <tr><td>MineFactory Reloaded</td><td>2.8.0RC7-71</td><td></td></tr>
   <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
   <tr><td>OceanCraft</td><td>1.4.1</td><td></td></tr>
-  <tr><td>OpenComputers-MC1.7.10-1.5.0.6-universal</td><td>OpenComputers-MC1.7.10-1.5.0.6-universal</td><td></td></tr>
+  <tr><td>OpenComputers</td><td>1.5.0.6</td><td></td></tr>
+  <tr><td>Railcraft</td><td>9.5.0.0</td><td></td></tr>
   <tr><td>Redstone Arsenal</td><td>1.1.0RC2-43</td><td></td></tr>
   <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
   <tr><td>Thaumcraft</td><td>4.2.3.5</td><td></td></tr>
