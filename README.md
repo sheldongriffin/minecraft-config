@@ -72,6 +72,7 @@
   <tr><td>Mekanism</td><td>7.1.2.175</td><td></td></tr>
   <tr><td>MineFactory Reloaded</td><td>2.8.0RC7-71</td><td></td></tr>
   <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
+  <tr><td>NotEnoughItems</td><td>1.0.4.83</td><td></td></tr>
   <tr><td>OceanCraft</td><td>1.4.1</td><td></td></tr>
   <tr><td>OpenBlocks</td><td>1.3</td><td></td></tr>
   <tr><td>OpenComputers</td><td>1.5.0.6</td><td></td></tr>
