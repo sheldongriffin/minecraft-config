@@ -62,6 +62,7 @@
   <tr><td>Inventory Tweaks</td><td>1.59-dev-156</td><td></td></tr>
   <tr><td>Iron Chests</td><td>6.0.62.742</td><td></td></tr>
   <tr><td>JABBA</td><td>1.2.1</td><td></td></tr>
+  <tr><td>Logistics Pipes</td><td>0.8.3.100</td><td></td></tr>
   <tr><td>KoreSample</td><td>1.2.5</td><td></td></tr>
   <tr><td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td></tr>
   <tr><td>MapleTree Forge</td><td>1.1.29</td><td></td></tr>
