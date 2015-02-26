@@ -75,6 +75,7 @@
   <tr><td>OpenBlocks</td><td>1.3</td><td></td></tr>
   <tr><td>OpenComputers</td><td>1.5.0.6</td><td></td></tr>
   <tr><td>OpenModsLib</td><td>0.6</td><td>OpenBlocks</td></tr>
+  <tr><td>PneumaticCraft</td><td>1.6.1-62</td><td></td></tr>
   <tr><td>Pressure Pipes</td><td>1.0.4.57</td><td></td></tr>
   <tr><td>Railcraft</td><td>9.5.0.0</td><td></td></tr>
   <tr><td>Redstone Arsenal</td><td>1.1.0RC2-43</td><td></td></tr>
