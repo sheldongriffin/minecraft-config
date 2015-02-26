@@ -75,6 +75,7 @@
   <tr><td>Logistics Pipes</td><td>0.8.3.100</td><td></td></tr>
   <tr><td>KoreSample</td><td>1.2.5</td><td></td></tr>
   <tr><td>Magic Bees</td><td>2.1.22</td><td></td></tr>
+  <tr><td>Magical Crops</td><td>0.1</td><td></td></tr>
   <tr><td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td></tr>
   <tr><td>MapleTree Forge</td><td>1.1.29</td><td></td></tr>
   <tr><td>Mariculture</td><td>1.2.4c</td><td></td></tr>
