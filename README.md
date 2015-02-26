@@ -45,6 +45,7 @@
   <tr><td>CoFHCore</td><td>3.0.0RC2-195</td><td></td></tr>
   <tr><td>Compact Solars</td><td>4.4.39.315</td><td></td></tr>
   <tr><td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td></tr>
+  <tr><td>Custom Mob Spawner</td><td>3.3.0</td><td></td></tr>
   <tr><td>Dense Ores</td><td>1.5</td><td></td></tr>
   <tr><td>DragonAPI</td><td>4c</td><td></td></tr>
   <tr><td>Enchiridon</td><td>1.2b</td><td>Mariculture</td></tr>
@@ -83,6 +84,7 @@
   <tr><td>Mekanism</td><td>7.1.2.175</td><td></td></tr>
   <tr><td>Minecraft Comes Alive</td><td>4.1.5</td><td></td></tr>
   <tr><td>MineFactory Reloaded</td><td>2.8.0RC7-71</td><td></td></tr>
+  <tr><td>Mo'Creatures</td><td>6.3.1</td><td></td></tr>
   <tr><td>MystCraft</td><td>0.11.0.00</td><td></td></tr>
   <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
   <tr><td>NEI Addons</td><td>1.12.4.16</td><td></td></tr>
