@@ -55,12 +55,12 @@
   <tr><td>Eureka</td><td>2.2</td><td>BuildCraft Additions</td></tr>
   <tr><td>Extra Cells</td><td>2.2.53b82</td><td></td></tr>
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
-  <tr><td>Extra Utilities</td><td>1.2.1</td><td></td></tr>
+  <tr><td><s>Extra Utilities</s></td><td><s>1.2.1</s></td><td></td></tr>
   <tr><td>Factoriziation</td><td>8.88.8.8888g</td><td></td></tr>
   <tr><td>FastCraft</td><td>1.19</td><td></td></tr>
   <tr><td>Flaxbeard's SteamPower</td><td>0.27.4</td><td></td></tr>
   <tr><td>Forbidden Magic</td><td>0.552</td><td></td></tr>
-  <td><td>Forestry</td><td>3.4.0.7</td><td></td></tr>
+  <tr><td>Forestry</td><td>3.4.0.7</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
   <tr><td>GardenStuff</td><td>1.2.6</td><td></td></tr>
   <tr><td>Gendustry</td><td>1.4.6.62</td><td></td></tr>
