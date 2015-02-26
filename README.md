@@ -76,9 +76,9 @@
   <tr><td>Railcraft</td><td>9.5.0.0</td><td></td></tr>
   <tr><td>Redstone Arsenal</td><td>1.1.0RC2-43</td><td></td></tr>
   <tr><td>Sanguimancy</td><td>1.1.8-4</td><td></td></tr>
-  <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
   <tr><td>Thaumcraft</td><td>4.2.3.5</td><td></td></tr>
   <tr><td>Thaumcraft Node Tracker</td><td>1.0.2</td><td></td></tr>
+  <tr><td>Thaumic Energistics</td><td>0.8.9.0b-rv2</td><td></td></tr>
   <tr><td>Thaumic Infusion</td><td>3.965</td><td></td></tr>
   <tr><td>Thaumic Tinkerer</td><td>2.5-162</td><td></td></tr>
   <tr><td>Thermal Expansion</td><td>4.0.0RC2-129</td><td></td></tr>
@@ -88,6 +88,7 @@
   <tr><td>Tinker's Mechworks</td><td>0.2.13.96</td><td></td></tr>
   <tr><td>Tinker's Steelworks</td><td>1.1.0-6</td><td></td></tr>
   <tr><td>Traveller's Gear</td><td>1.15.3</td><td></td></tr>
+  <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
   <tr><td>Waila</td><td>1.5.9</td><td></td></tr>
   <tr><td>Waila Harvestability</td><td>1.1.2</td><td></td></tr>
   <tr><td>Wawla</td><td>1.1.1</td><td></td></tr>
