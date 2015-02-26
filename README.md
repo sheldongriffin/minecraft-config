@@ -46,6 +46,7 @@
   <tr><td>Ender Storage</td><td>1.4.5.27</td><td></td></tr>
   <tr><td>Equivalent Exchange 3</td><td>0.2.425</td><td></td></tr>
   <tr><td>Eureka</td><td>2.2</td><td>BuildCraft Additions</td></tr>
+  <tr><td>Extra Cells</td><td>2.2.53b82</td><td></td></tr>
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
   <tr><td>Extra Utilities</td><td>1.2.1</td><td></td></tr>
   <tr><td>Factoriziation</td><td>8.88.8.8888g</td><td></td></tr>
