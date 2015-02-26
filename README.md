@@ -13,6 +13,7 @@
   <tr><td>Advanced Genetics</td><td>1.5.7</td><td></td></tr>
   <tr><td>Advanced Machines</td><td>59.0.2</td><td></td></tr>
   <tr><td>Advanced Solar Panels</td><td>3.5.1</td><td></td></tr>
+  <tr><td>AgriCraft</td><td>1.2.2</td><td></td></tr>
   <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
   <tr><td>AnimationAPI</td><td>1.2.4</td><td>Ars Magica 2</td></tr>
   <tr><td>AOBD</td><td>2.4.0</td><td></td></tr>
