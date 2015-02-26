@@ -95,6 +95,7 @@
   <tr><td>Thaumcraft Mob Aspects</td><td>1.7.2-2A</td><td></td></tr>
   <tr><td>Thaumcraft Node Tracker</td><td>1.0.2</td><td></td></tr>
   <tr><td>Thaumic Energistics</td><td>0.8.9.0b-rv2</td><td></td></tr>
+  <tr><td>Thaumic Exploration</td><td>1.1-37</td><td></td></tr>
   <tr><td>Thaumic Infusion</td><td>3.965</td><td></td></tr>
   <tr><td>Thaumic Tinkerer</td><td>2.5-162</td><td></td></tr>
   <tr><td>Thermal Expansion</td><td>4.0.0RC2-129</td><td></td></tr>
