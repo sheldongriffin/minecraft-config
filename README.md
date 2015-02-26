@@ -70,6 +70,7 @@
   <tr><td>MapleTree Forge</td><td>1.1.29</td><td></td></tr>
   <tr><td>Mariculture</td><td>1.2.4c</td><td></td></tr>
   <tr><td>Mekanism</td><td>7.1.2.175</td><td></td></tr>
+  <tr><td>Minecraft Comes Alive</td><td>4.1.5</td><td></td></tr>
   <tr><td>MineFactory Reloaded</td><td>2.8.0RC7-71</td><td></td></tr>
   <tr><td>MystCraft</td><td>0.11.0.00</td><td></td></tr>
   <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
@@ -80,6 +81,7 @@
   <tr><td>OpenModsLib</td><td>0.6</td><td>OpenBlocks</td></tr>
   <tr><td>PneumaticCraft</td><td>1.6.1-62</td><td></td></tr>
   <tr><td>Pressure Pipes</td><td>1.0.4.57</td><td></td></tr>
+  <tr><td>RadixCore</td><td>1.3.4</td><td>Minecraft Comes Alive</td></tr>
   <tr><td>Railcraft</td><td>9.5.0.0</td><td></td></tr>
   <tr><td>Redstone Arsenal</td><td>1.1.0RC2-43</td><td></td></tr>
   <tr><td>Sanguimancy</td><td>1.1.8-4</td><td></td></tr>
