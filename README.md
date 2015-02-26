@@ -36,6 +36,7 @@
   <tr><td>Compact Solars</td><td>4.4.39.315</td><td></td></tr>
   <tr><td>CookieCore</td><td>1.3.1-5</td><td>Tinker's Steelworks</td></tr>
   <tr><td>Dense Ores</td><td>1.5</td><td></td></tr>
+  <tr><td>Enchiridon</td><td>1.2b</td><td>Mariculture</td></tr>
   <tr><td>Equivalent Exchange 3</td><td>0.2.425</td><td></td></tr>
   <tr><td>Eureka</td><td>2.2</td><td>BuildCraft Additions</td></tr>
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
@@ -55,6 +56,7 @@
   <tr><td>KoreSample</td><td>1.2.5</td><td></td></tr>
   <tr><td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td></tr>
   <tr><td>MapleTree Forge</td><td>1.1.29</td><td></td></tr>
+  <tr><td>Mariculture</td><td>1.2.4c</td><td></td></tr>
   <tr><td>Mekanism</td><td>7.1.2.175</td><td></td></tr>
   <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
   <tr><td>OceanCraft</td><td>1.4.1</td><td></td></tr>
