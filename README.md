@@ -9,7 +9,7 @@
   </tr>
 </thead>
 <tbody>
-  <tr><td>Advanced Generators</td><td>0.9.9.44</td><td></td></tr>
+  <tr><td>Advanced Generators</td><td>0.9.11.48</td><td></td><td><a href="http://bdew.net/generators/">bdew.net/generators/</a></tr>
   <tr><td>Advanced Genetics</td><td>1.5.7</td><td></td></tr>
   <tr><td>Advanced Machines</td><td>59.0.2</td><td></td></tr>
   <tr><td>Advanced Solar Panels</td><td>3.5.1</td><td></td></tr>
@@ -24,7 +24,7 @@
   <tr><td>Ars Magica 2</td><td>1.4.0.008</td><td></td></tr>
   <tr><td>Automagy</td><td>0.19.3</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
-  <tr><td>bdlib</td><td>1.6.3.48</td><td>Gendustry</td></tr>
+  <tr><td>bdlib</td><td>1.6.5.52</td><td>Gendustry</td><td><a href="http://bdew.net/">bdew.net/</a></td></tr>
   <tr><td>BiblioCraft</td><td>1.9.2</td><td></td></tr>
   <tr><td>BiblioWoods Forestry</td><td>1.7</td><td></td></tr>
   <tr><td>BiblioWoods Natura</td><td>1.5</td><td></td></tr>
@@ -63,7 +63,7 @@
   <tr><td>Forestry</td><td>3.4.0.7</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
   <tr><td>GardenStuff</td><td>1.2.6</td><td></td></tr>
-  <tr><td>Gendustry</td><td>1.4.6.62</td><td></td></tr>
+  <tr><td>Gendustry</td><td>1.4.8.65</td><td></td><td><a href="http://bdew.net/gendustry/">bdew.net/gendustry/</a></td></tr>
   <tr><td>GrowthCraft</td><td>2.10a</td><td></td></tr>
   <tr><td>HarvestCraft</td><td>1.7.10g</td><td></td></tr>
   <tr><td>Hunger Overhaul</td><td></td><td></td></tr>
@@ -87,7 +87,7 @@
   <tr><td>Mo'Creatures</td><td>6.3.1</td><td></td></tr>
   <tr><td>MystCraft</td><td>0.11.0.00</td><td></td></tr>
   <tr><td>Natura</td><td>2.2.0.1</td><td></td></tr>
-  <tr><td>NEI Addons</td><td>1.12.4.16</td><td></td></tr>
+  <tr><td>NEI Addons</td><td>1.12.4.16</td><td></td><td><a href="http://bdew.net/neiaddons/">bdew.net/neiaddons/</a></tr>
   <tr><td>NEI Integration</td><td>1.0.6</td><td></td></tr>
   <tr><td>NEI Plugins</td><td>1.1.0.11</td><td></td></tr>
   <tr><td>NotEnoughItems</td><td>1.0.4.83</td><td></td></tr>
@@ -96,7 +96,7 @@
   <tr><td>OpenComputers</td><td>1.5.0.6</td><td></td></tr>
   <tr><td>OpenModsLib</td><td>0.6</td><td>OpenBlocks</td></tr>
   <tr><td>PneumaticCraft</td><td>1.6.1-62</td><td></td></tr>
-  <tr><td>Pressure Pipes</td><td>1.0.4.57</td><td></td></tr>
+  <tr><td>Pressure Pipes</td><td>1.0.7.62</td><td></td><td><a href="http://bdew.net/pressure/">bdew.net/pressure/</a></tr>
   <tr><td>RadixCore</td><td>1.3.4</td><td>Minecraft Comes Alive</td></tr>
   <tr><td>Railcraft</td><td>9.5.0.0</td><td></td></tr>
   <tr><td>Redstone Arsenal</td><td>1.1.0RC2-43</td><td></td></tr>
