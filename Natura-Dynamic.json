@@ -18,6 +18,9 @@
     },
     "Natura MFR Compatibility": {
       "enabled": true
+    },
+    "Natura TE4 Compatibility": {
+      "enabled": true
     }
   }
 }
