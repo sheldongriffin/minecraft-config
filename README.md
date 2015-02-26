@@ -30,6 +30,7 @@
   <tr><td>BuildCraft Compat</td><td>6.3.1</td><td></td></tr>
   <tr><td>Botania</td><td>1.5-165</td><td></td></tr>
   <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
+  <tr><td>Carpenter's Blocks</td><td>3.3.5</td><td></td></tr>
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
   <tr><td>CodeChickenLib</td><td>1.1.1.110</td><td></td></tr>
   <tr><td>CoFHCore</td><td>3.0.0RC2-195</td><td></td></tr>
