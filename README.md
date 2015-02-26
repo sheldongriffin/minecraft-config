@@ -65,6 +65,7 @@
   <tr><td>Thaumcraft Node Tracker</td><td>1.0.2</td><td></td></tr>
   <tr><td>Thaumic Infusion</td><td>3.965</td><td></td></tr>
   <tr><td>Thaumic Tinkerer</td><td>2.5-162</td><td></td></tr>
+  <tr><td>Thermal Foundation</td><td>1.0.0RC3-56</td><td></td></tr>
   <tr><td>TiCTooltips</td><td>1.2.3</td><td></td></tr>
   <tr><td>Tinker's Construct</td><td>1.8.2a</td><td></td></tr>
   <tr><td>Tinker's Mechworks</td><td>0.2.13.96</td><td></td></tr>
