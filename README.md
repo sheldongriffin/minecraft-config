@@ -64,6 +64,7 @@
   <tr><td>INpureCore</td><td>1.0.0B9-54</td><td></td></tr>
   <tr><td>Inventory Tweaks</td><td>1.59-dev-156</td><td></td></tr>
   <tr><td>Iron Chests</td><td>6.0.62.742</td><td></td></tr>
+  <tr><td>JourneyMap</td><td>5.0.1</td><td></td></tr>
   <tr><td>JABBA</td><td>1.2.1</td><td></td></tr>
   <tr><td>Logistics Pipes</td><td>0.8.3.100</td><td></td></tr>
   <tr><td>KoreSample</td><td>1.2.5</td><td></td></tr>
