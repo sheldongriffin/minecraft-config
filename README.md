@@ -44,6 +44,7 @@
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
   <tr><td>Extra Utilities</td><td>1.2.1</td><td></td></tr>
   <tr><td>Factoriziation</td><td>8.88.8.8888g</td><td></td></tr>
+  <tr><td>Flaxbeard's SteamPower</td><td>0.27.4</td><td></td></tr>
   <td><td>Forestry</td><td>3.4.0.7</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
   <tr><td>GardenStuff</td><td>1.2.6</td><td></td></tr>
