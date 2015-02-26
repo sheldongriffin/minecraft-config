@@ -108,6 +108,7 @@
   <tr><td>Tinker's Steelworks</td><td>1.1.0-6</td><td></td></tr>
   <tr><td>Traveller's Gear</td><td>1.15.3</td><td></td></tr>
   <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
+  <tr><td>VersionChecker</td><td>1.1.7</td><td></td></tr>
   <tr><td>Waila</td><td>1.5.9</td><td></td></tr>
   <tr><td>Waila Harvestability</td><td>1.1.2</td><td></td></tr>
   <tr><td>Wawla</td><td>1.1.1</td><td></td></tr>
