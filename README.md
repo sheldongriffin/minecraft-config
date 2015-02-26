@@ -19,6 +19,7 @@
   <tr><td>Armor Status HUD</td><td>1.28</td><td></td></tr>
   <tr><td>Automagy</td><td>0.19.3</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
+  <tr><td>bdlib</td><td>1.6.3.48</td><td>Gendustry</td></tr>
   <tr><td>BiblioCraft</td><td>1.9.2</td><td></td></tr>
   <tr><td>BiblioWoods Natura</td><td>1.5</td><td></td></tr>
   <tr><td>BiblioWoods BiomesOPlenty</td><td>1.9</td><td></td></tr>
@@ -49,6 +50,7 @@
   <td><td>Forestry</td><td>3.4.0.7</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
   <tr><td>GardenStuff</td><td>1.2.6</td><td></td></tr>
+  <tr><td>Gendustry</td><td>1.4.6.62</td><td></td></tr>
   <tr><td>HarvestCraft</td><td>1.7.10g</td><td></td></tr>
   <tr><td>Hunger Overhaul</td><td></td><td></td></tr>
   <tr><td>Immibis Core</td><td>59.0.7</td><td>Advanced Machines</td></tr>
