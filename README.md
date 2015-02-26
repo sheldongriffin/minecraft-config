@@ -26,6 +26,7 @@
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
   <tr><td>bdlib</td><td>1.6.3.48</td><td>Gendustry</td></tr>
   <tr><td>BiblioCraft</td><td>1.9.2</td><td></td></tr>
+  <tr><td>BiblioWoods Forestry</td><td>1.7</td><td></td></tr>
   <tr><td>BiblioWoods Natura</td><td>1.5</td><td></td></tr>
   <tr><td>BiblioWoods BiomesOPlenty</td><td>1.9</td><td></td></tr>
   <tr><td>Big Reactors</td><td>0.4.1A2</td><td></td></tr>
