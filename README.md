@@ -13,10 +13,12 @@
   <tr><td>Advanced Machines</td><td>59.0.2</td><td></td></tr>
   <tr><td>Advanced Solar Panels</td><td>3.5.1</td><td></td></tr>
   <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
+  <tr><td>AnimationAPI</td><td>1.2.4</td><td>Ars Magica 2</td></tr>
   <tr><td>AppleCore</td><td>1.1.0</td><td>Hunger Overhaul</td></tr>
   <tr><td>AppleMilkTea2</td><td>2.3a</td><td></td></tr>
   <tr><td>Applied Energistics</td><td>rv2-b8</td><td></td></tr>
   <tr><td>Armor Status HUD</td><td>1.28</td><td></td></tr>
+  <tr><td>Ars Magica 2</td><td>1.4.0.008</td><td></td></tr>
   <tr><td>Automagy</td><td>0.19.3</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
   <tr><td>bdlib</td><td>1.6.3.48</td><td>Gendustry</td></tr>
