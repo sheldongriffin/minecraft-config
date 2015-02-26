@@ -73,6 +73,7 @@
   <tr><td>Tinker's Construct</td><td>1.8.2a</td><td></td></tr>
   <tr><td>Tinker's Mechworks</td><td>0.2.13.96</td><td></td></tr>
   <tr><td>Tinker's Steelworks</td><td>1.1.0-6</td><td></td></tr>
+  <tr><td>Traveller's Gear</td><td>1.15.3</td><td></td></tr>
   <tr><td>Waila</td><td>1.5.9</td><td></td></tr>
   <tr><td>Waila Harvestability</td><td>1.1.2</td><td></td></tr>
   <tr><td>Wawla</td><td>1.1.1</td><td></td></tr>
