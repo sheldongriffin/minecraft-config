@@ -33,6 +33,7 @@
   <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
   <tr><td>Carpenter's Blocks</td><td>3.3.5</td><td></td></tr>
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
+  <tr><td>CodeChickenCore</td><td>1.0.4.35</td><td>Ender Storage</td></tr>
   <tr><td>CodeChickenLib</td><td>1.1.1.110</td><td></td></tr>
   <tr><td>CoFHCore</td><td>3.0.0RC2-195</td><td></td></tr>
   <tr><td>Compact Solars</td><td>4.4.39.315</td><td></td></tr>
@@ -40,6 +41,7 @@
   <tr><td>Dense Ores</td><td>1.5</td><td></td></tr>
   <tr><td>Enchiridon</td><td>1.2b</td><td>Mariculture</td></tr>
   <tr><td>EnderIO</td><td>2.2.8.349</td><td></td></tr>
+  <tr><td>Ender Storage</td><td>1.4.5.27</td><td></td></tr>
   <tr><td>Equivalent Exchange 3</td><td>0.2.425</td><td></td></tr>
   <tr><td>Eureka</td><td>2.2</td><td>BuildCraft Additions</td></tr>
   <tr><td>ExtraTiC</td><td>1.0.3</td><td></td></tr>
