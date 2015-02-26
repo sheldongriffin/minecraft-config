@@ -9,6 +9,7 @@
   </tr>
 </thead>
 <tbody>
+  <tr><td>Advanced Generators</td><td>0.9.9.44</td><td></td></tr>
   <tr><td>Advanced Genetics</td><td>1.5.7</td><td></td></tr>
   <tr><td>Advanced Machines</td><td>59.0.2</td><td></td></tr>
   <tr><td>Advanced Solar Panels</td><td>3.5.1</td><td></td></tr>
