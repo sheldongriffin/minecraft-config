@@ -98,6 +98,8 @@
   <tr><td>Railcraft</td><td>9.5.0.0</td><td></td></tr>
   <tr><td>Redstone Arsenal</td><td>1.1.0RC2-43</td><td></td></tr>
   <tr><td>Sanguimancy</td><td>1.1.8-4</td><td></td></tr>
+  <tr><td>Steve's Carts</td><td>2.0.0.b18</td><td></td></tr>
+  <tr><td>Steve's Factory Manager</td><td>A93</td><td></td></tr>
   <tr><td>Thaumcraft</td><td>4.2.3.5</td><td></td></tr>
   <tr><td>Thaumcraft Mob Aspects</td><td>1.7.2-2A</td><td></td></tr>
   <tr><td>Thaumcraft Node Tracker</td><td>1.0.2</td><td></td></tr>
