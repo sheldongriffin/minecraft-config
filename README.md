@@ -59,7 +59,7 @@
   <tr><td>Factoriziation</td><td>8.88.8.8888g</td><td></td></tr>
   <tr><td>FastCraft</td><td>1.19</td><td></td></tr>
   <tr><td>Flaxbeard's SteamPower</td><td>0.27.4</td><td></td></tr>
-  <tr><td>Forbidden Magic</td><td>0.552</td><td></td></tr>
+  <tr><td><a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-561-prerelease">Forbidden Magic</a></td><td>0.561</td><td></td></tr>
   <tr><td>Forestry</td><td>3.4.0.7</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
   <tr><td>GardenStuff</td><td>1.2.6</td><td></td></tr>
