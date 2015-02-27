@@ -14,27 +14,27 @@
   <tr><td><a href="https://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html">Advanced Machines (immibis)</a></td><td>59.0.2</td><td></td></tr>
   <tr><td><a href="http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291">Advanced Solar Panels</a></td><td>3.5.1</td><td></td></tr>
   <tr><td><a href="http://forum.feed-the-beast.com/threads/1-7-10-agricraft.50964/">AgriCraft</a></td><td>1.2.2</td><td></td></tr>
-  <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
-  <tr><td>AnimationAPI</td><td>1.2.4</td><td>Ars Magica 2</td></tr>
-  <tr><td>AOBD</td><td>2.4.0</td><td></td></tr>
-  <tr><td>AppleCore</td><td>1.1.0</td><td>Hunger Overhaul</td></tr>
+  <tr><td><a href="https://github.com/MinecraftModArchive/Dendrology/blob/master/README.md">Ancient Trees</a></td><td>1.2.4</td><td></td><td></td></tr>
+  <tr><td><a href="http://www.curse.com/mc-mods/minecraft/animationapi">AnimationAPI</a></td><td>1.2.4</td><td>Ars Magica 2</td></tr>
+  <tr><td><a href="http://www.curse.com/mc-mods/minecraft/221863-another-one-bites-the-dust">AOBD</a></td><td>2.4.0</td><td></td></tr>
+  <tr><td><a href="http://www.curse.com/mc-mods/minecraft/224472-applecore">AppleCore</a></td><td>1.1.0</td><td>Hunger Overhaul</td></tr>
   <tr><td>AppleMilkTea2</td><td>2.3a</td><td></td></tr>
-  <tr><td>Applied Energistics</td><td>rv2-b8</td><td></td></tr>
-  <tr><td>Armor Status HUD</td><td>1.28</td><td></td></tr>
+  <tr><td><a href="http://ae-mod.info/">Applied Energistics</a></td><td>rv2-b8</td><td></td></tr>
+  <tr><td><a href="http://www.curse.com/mc-mods/minecraft/225564-armorstatushud">Armor Status HUD</a></td><td>1.28</td><td></td></tr>
   <tr><td>Ars Magica 2</td><td>1.4.0.008</td><td></td></tr>
   <tr><td><a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-20">Automagy</a></td><td>0.20.1</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
-  <tr><td>bdlib</td><td>1.6.5.52</td><td>Gendustry</td><td><a href="http://bdew.net/">bdew.net/</a></td></tr>
+  <tr><td><a href="http://bdew.net/">bdlib</a></td><td>1.6.5.52</td><td>Gendustry</td></tr>
   <tr><td>BiblioCraft</td><td>1.9.2</td><td></td></tr>
   <tr><td>BiblioWoods Forestry</td><td>1.7</td><td></td></tr>
   <tr><td>BiblioWoods Natura</td><td>1.5</td><td></td></tr>
   <tr><td>BiblioWoods BiomesOPlenty</td><td>1.9</td><td></td></tr>
-  <tr><td>Big Reactors</td><td>0.4.1A2</td><td></td></tr>
+  <tr><td><a href="http://www.big-reactors.com/#/">Big Reactors</a></td><td>0.4.2A2</td><td></td></tr>
   <tr><td>Biomes o Plenty</td><td>2.1.0.1067</td><td></td></tr>
   <tr><td>Blood Magic</td><td>1.3.0b-3</td><td></td></tr>
-  <tr><td>BuildCraft</td><td>6.4.1</td><td></td><td><a href="http://www.mod-buildcraft.com/">www.mod-buildcraft.com/</a></td></tr>
+  <tr><td><a href="http://www.mod-buildcraft.com/">BuildCraft</a></td><td>6.3.6</td><td></td></tr>
   <tr><td>BuildCraft Additions</td><td>2.0</td><td></td></tr>
-  <tr><td>BuildCraft Compat</td><td>6.4.0</td><td></td><td><a href="http://www.mod-buildcraft.com/">www.mod-buildcraft.com/</a></td></tr>
+  <tr><td><a href="http://www.mod-buildcraft.com/">BuildCraft Compat</a></td><td>6.3.1</td><td></td></tr>
   <tr><td>Botania</td><td>1.5-165</td><td></td></tr>
   <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
   <tr><td>Carpenter's Blocks</td><td>3.3.5</td><td></td></tr>
@@ -75,7 +75,7 @@
   <tr><td>JourneyMap</td><td>5.0.1</td><td></td></tr>
   <tr><td>JABBA</td><td>1.2.1</td><td></td></tr>
   <tr><td>Logistics Pipes</td><td>0.8.3.100</td><td></td></tr>
-  <tr><td>KoreSample</td><td>1.2.5</td><td></td></tr>
+  <tr><td><a href="http://scottk.us/KoreSample">KoreSample</a></td><td>1.2.5</td><td></td></tr>
   <tr><td>Magic Bees</td><td>2.1.22</td><td></td></tr>
   <tr><td>Magical Crops</td><td>0.1</td><td></td></tr>
   <tr><td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td></tr>
@@ -95,12 +95,12 @@
   <tr><td>OpenBlocks</td><td>1.3</td><td></td></tr>
   <tr><td><a href="http://oc.cil.li/index.php?/page/index.html">OpenComputers</a></td><td>1.5.2.9</td><td></td></tr>
   <tr><td>OpenModsLib</td><td>0.6</td><td>OpenBlocks</td></tr>
-  <tr><td>PneumaticCraft</td><td>1.6.1-62</td><td></td></tr>
+  <tr><td><a href="http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft">PneumaticCraft</a></td><td>1.6.3-65</td><td></td></tr>
   <tr><td>Pressure Pipes</td><td>1.0.7.62</td><td></td><td><a href="http://bdew.net/pressure/">bdew.net/pressure/</a></tr>
   <tr><td>RadixCore</td><td>1.3.4</td><td>Minecraft Comes Alive</td></tr>
   <tr><td>Railcraft</td><td>9.5.0.0</td><td></td></tr>
-  <tr><td>Redstone Arsenal</td><td>1.1.0RC2-43</td><td></td></tr>
-  <tr><td>Sanguimancy</td><td>1.1.8-4</td><td></td></tr>
+  <tr><td><a href="http://minecraft.curseforge.com/mc-mods/70631-redstone-arsenal">Redstone Arsenal</a></td><td>1.1.0RC2-43</td><td></td></tr>
+  <tr><td><a href="http://minecraft.curseforge.com/mc-mods/223722-sanguimancy">Sanguimancy</a></td><td>1.1.8-4</td><td></td></tr>
   <tr><td>Steve's Carts</td><td>2.0.0.b18</td><td></td></tr>
   <tr><td>Steve's Factory Manager</td><td>A93</td><td></td></tr>
   <tr><td>Thaumcraft</td><td>4.2.3.5</td><td></td></tr>
