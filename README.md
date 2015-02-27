@@ -80,7 +80,7 @@
   <tr><td>Magical Crops</td><td>0.1</td><td></td></tr>
   <tr><td>Mantle</td><td>0.3.2</td><td>Tinker's Construct</td></tr>
   <tr><td>MapleTree Forge</td><td>1.1.29</td><td></td></tr>
-  <tr><td>Mariculture</td><td>1.2.4c</td><td></td></tr>
+  <tr><td><a href="http://www.curse.com/mc-mods/minecraft/mariculture">Mariculture</a></td><td>1.2.4d</td><td></td></tr>
   <tr><td>Mekanism</td><td>7.1.2.175</td><td></td></tr>
   <tr><td>Minecraft Comes Alive</td><td>4.1.5</td><td></td></tr>
   <tr><td>MineFactory Reloaded</td><td>2.8.0RC7-71</td><td></td></tr>
