@@ -93,7 +93,7 @@
   <tr><td>NotEnoughItems</td><td>1.0.4.83</td><td></td></tr>
   <tr><td>OceanCraft</td><td>1.4.1</td><td></td></tr>
   <tr><td>OpenBlocks</td><td>1.3</td><td></td></tr>
-  <tr><td>OpenComputers</td><td>1.5.0.6</td><td></td></tr>
+  <tr><td><a href="http://oc.cil.li/index.php?/page/index.html">OpenComputers</a></td><td>1.5.2.9</td><td></td></tr>
   <tr><td>OpenModsLib</td><td>0.6</td><td>OpenBlocks</td></tr>
   <tr><td>PneumaticCraft</td><td>1.6.1-62</td><td></td></tr>
   <tr><td>Pressure Pipes</td><td>1.0.7.62</td><td></td><td><a href="http://bdew.net/pressure/">bdew.net/pressure/</a></tr>
