@@ -9,10 +9,10 @@
   </tr>
 </thead>
 <tbody>
-  <tr><td>Advanced Generators</td><td>0.9.11.48</td><td></td><td><a href="http://bdew.net/generators/">bdew.net/generators/</a></tr>
-  <tr><td>Advanced Genetics</td><td>1.5.7</td><td></td></tr>
-  <tr><td>Advanced Machines</td><td>59.0.2</td><td></td></tr>
-  <tr><td>Advanced Solar Panels</td><td>3.5.1</td><td></td></tr>
+  <tr><td><a href="http://bdew.net/generators/">Advanced Generators</a></td><td>0.9.11.48</td><td></td></tr>
+  <tr><td><a href="http://ag.teamdna.de/">Advanced Genetics</a></td><td>1.5.7</td><td></td></tr>
+  <tr><td><a href="https://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html">Advanced Machines (immibis)</a></td><td>59.0.2</td><td></td></tr>
+  <tr><td><a href="http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291">Advanced Solar Panels</a></td><td>3.5.1</td><td></td></tr>
   <tr><td>AgriCraft</td><td>1.2.2</td><td></td></tr>
   <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
   <tr><td>AnimationAPI</td><td>1.2.4</td><td>Ars Magica 2</td></tr>
@@ -22,7 +22,7 @@
   <tr><td>Applied Energistics</td><td>rv2-b8</td><td></td></tr>
   <tr><td>Armor Status HUD</td><td>1.28</td><td></td></tr>
   <tr><td>Ars Magica 2</td><td>1.4.0.008</td><td></td></tr>
-  <tr><td>Automagy</td><td>0.19.3</td><td></td></tr>
+  <tr><td><a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2125369-tc4-addon-automagy-automation-and-logistics-v0-20">Automagy</a></td><td>0.20.1</td><td></td></tr>
   <tr><td>Baubles</td><td>1.0.1.10</td><td>Thaumcraft</td><td></td></tr>
   <tr><td>bdlib</td><td>1.6.5.52</td><td>Gendustry</td><td><a href="http://bdew.net/">bdew.net/</a></td></tr>
   <tr><td>BiblioCraft</td><td>1.9.2</td><td></td></tr>
@@ -32,9 +32,9 @@
   <tr><td>Big Reactors</td><td>0.4.1A2</td><td></td></tr>
   <tr><td>Biomes o Plenty</td><td>2.1.0.1067</td><td></td></tr>
   <tr><td>Blood Magic</td><td>1.3.0b-3</td><td></td></tr>
-  <tr><td>BuildCraft</td><td>6.3.6</td><td></td></tr>
+  <tr><td>BuildCraft</td><td>6.4.1</td><td></td><td><a href="http://www.mod-buildcraft.com/">www.mod-buildcraft.com/</a></td></tr>
   <tr><td>BuildCraft Additions</td><td>2.0</td><td></td></tr>
-  <tr><td>BuildCraft Compat</td><td>6.3.1</td><td></td></tr>
+  <tr><td>BuildCraft Compat</td><td>6.4.0</td><td></td><td><a href="http://www.mod-buildcraft.com/">www.mod-buildcraft.com/</a></td></tr>
   <tr><td>Botania</td><td>1.5-165</td><td></td></tr>
   <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
   <tr><td>Carpenter's Blocks</td><td>3.3.5</td><td></td></tr>
