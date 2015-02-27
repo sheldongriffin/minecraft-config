@@ -13,7 +13,7 @@
   <tr><td><a href="http://ag.teamdna.de/">Advanced Genetics</a></td><td>1.5.7</td><td></td></tr>
   <tr><td><a href="https://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html">Advanced Machines (immibis)</a></td><td>59.0.2</td><td></td></tr>
   <tr><td><a href="http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291">Advanced Solar Panels</a></td><td>3.5.1</td><td></td></tr>
-  <tr><td>AgriCraft</td><td>1.2.2</td><td></td></tr>
+  <tr><td><a href="http://forum.feed-the-beast.com/threads/1-7-10-agricraft.50964/">AgriCraft</a></td><td>1.2.2</td><td></td></tr>
   <tr><td>Ancient Trees</td><td>1.2.4</td><td></td><td></td></tr>
   <tr><td>AnimationAPI</td><td>1.2.4</td><td>Ars Magica 2</td></tr>
   <tr><td>AOBD</td><td>2.4.0</td><td></td></tr>
