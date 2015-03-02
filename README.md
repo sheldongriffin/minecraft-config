@@ -62,7 +62,7 @@
   <tr><td><a href="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-561-prerelease">Forbidden Magic</a></td><td>0.561</td><td></td></tr>
   <tr><td>Forestry</td><td>3.4.0.7</td><td></td></tr>
   <tr><td>ForgeMultipart</td><td>1.1.1.320</td><td>ProjectRed</td></tr>
-  <tr><td>GardenStuff</td><td>1.2.6</td><td></td></tr>
+  <tr><td><a href="http://minecraft.curseforge.com/mc-mods/225903-garden-stuff">GardenStuff</a></td><td>1.4.0</td><td></td></tr>
   <tr><td>Gendustry</td><td>1.4.8.65</td><td></td><td><a href="http://bdew.net/gendustry/">bdew.net/gendustry/</a></td></tr>
   <tr><td>GrowthCraft</td><td>2.10a</td><td></td></tr>
   <tr><td>HarvestCraft</td><td>1.7.10g</td><td></td></tr>
