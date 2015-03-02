@@ -35,7 +35,7 @@
   <tr><td><a href="http://www.mod-buildcraft.com/">BuildCraft</a></td><td>6.3.6</td><td></td></tr>
   <tr><td>BuildCraft Additions</td><td>2.0</td><td></td></tr>
   <tr><td><a href="http://www.mod-buildcraft.com/">BuildCraft Compat</a></td><td>6.3.1</td><td></td></tr>
-  <tr><td>Botania</td><td>1.5-165</td><td></td></tr>
+  <tr><td><a href="http://botaniamod.net/">Botania</a></td><td>1.5-167</td><td></td></tr>
   <tr><td>bspkrsCore</td><td>6.16</td><td>Armor Status HUD</td></tr>
   <tr><td>Carpenter's Blocks</td><td>3.3.5</td><td></td></tr>
   <tr><td>Chisel</td><td>2.3.7.312a323</td><td></td></tr>
