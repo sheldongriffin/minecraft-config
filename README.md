@@ -31,7 +31,7 @@
   <tr><td>BiblioWoods BiomesOPlenty</td><td>1.9</td><td></td></tr>
   <tr><td><a href="http://www.big-reactors.com/#/">Big Reactors</a></td><td>0.4.2A2</td><td></td></tr>
   <tr><td>Biomes o Plenty</td><td>2.1.0.1067</td><td></td></tr>
-  <tr><td>Blood Magic</td><td>1.3.0b-3</td><td></td></tr>
+  <tr><td><a href="http://www.curse.com/mc-mods/minecraft/224791-blood-magic">Blood Magic</a></td><td>1.3.1-3</td><td></td></tr>
   <tr><td><a href="http://www.mod-buildcraft.com/">BuildCraft</a></td><td>6.3.6</td><td></td></tr>
   <tr><td>BuildCraft Additions</td><td>2.0</td><td></td></tr>
   <tr><td><a href="http://www.mod-buildcraft.com/">BuildCraft Compat</a></td><td>6.3.1</td><td></td></tr>
