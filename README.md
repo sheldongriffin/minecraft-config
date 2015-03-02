@@ -95,6 +95,7 @@
   <tr><td>OpenBlocks</td><td>1.3</td><td></td></tr>
   <tr><td><a href="http://oc.cil.li/index.php?/page/index.html">OpenComputers</a></td><td>1.5.2.9</td><td></td></tr>
   <tr><td>OpenModsLib</td><td>0.6</td><td>OpenBlocks</td></tr>
+  <tr><td>PotionExtension</td><td>1.0.3</td><td>AppleMilkTea</td></tr>
   <tr><td><a href="http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft">PneumaticCraft</a></td><td>1.6.3-65</td><td></td></tr>
   <tr><td>Pressure Pipes</td><td>1.0.7.62</td><td></td><td><a href="http://bdew.net/pressure/">bdew.net/pressure/</a></tr>
   <tr><td>RadixCore</td><td>1.3.4</td><td>Minecraft Comes Alive</td></tr>
@@ -116,12 +117,13 @@
   <tr><td>Tinker's Construct</td><td>1.8.2a</td><td></td></tr>
   <tr><td>Tinker's Mechworks</td><td>0.2.13.96</td><td></td></tr>
   <tr><td>Tinker's Steelworks</td><td>1.1.0-6</td><td></td></tr>
-  <tr><td>Traveller's Gear</td><td>1.15.3</td><td></td></tr>
+  <tr><td><a href="http://www.curse.com/mc-mods/minecraft/224440-travellers-gear">Traveller's Gear</a></td><td>1.15.5</td><td></td></tr>
   <tr><td>Twilight Forest</td><td>2.3.3</td><td></td></tr>
   <tr><td>VersionChecker</td><td>1.1.7</td><td></td></tr>
   <tr><td>Waila</td><td>1.5.9</td><td></td></tr>
   <tr><td>Waila Harvestability</td><td>1.1.2</td><td></td></tr>
   <tr><td>Wawla</td><td>1.1.1</td><td></td></tr>
   <tr><td>Witchery</td><td>0.22.0</td><td></td></tr>
+  <tr><td>Witching Gadgets</td><td>1.0.1</td><td></td></tr>
 </tbody>
 </table>
