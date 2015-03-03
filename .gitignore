@@ -3,3 +3,6 @@ enderio/*.xml
 enderio/*.json
 opencomputers/*.recipes
 Natura-Dynamic.json
+CustomSpawner/**/*
+**/logs/*
+MCA/Worlds/*
