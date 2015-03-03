@@ -1,1 +1,4 @@
 ThaumcraftMobAspects/*
+enderio/*.xml
+enderio/*.json
+opencomputers/*.recipe
